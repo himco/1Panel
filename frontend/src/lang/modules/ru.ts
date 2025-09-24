@@ -172,6 +172,7 @@ const message = {
             rootInfoErr: 'Это уже корневой каталог',
             resetSuccess: 'Сброс успешен',
             creatingInfo: 'Создание, эта операция не нужна',
+            offlineTips: 'Офлайн версия не поддерживает эту операцию',
         },
         login: {
             username: 'Имя пользователя',

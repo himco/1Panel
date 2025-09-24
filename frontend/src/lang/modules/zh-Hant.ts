@@ -180,6 +180,7 @@ const message = {
             creatingInfo: '正在創建，無需此操作',
             installSuccess: '安裝成功',
             uninstallSuccess: '卸載成功',
+            offlineTips: '離線版本不支援此操作',
         },
         login: {
             username: '用戶名',

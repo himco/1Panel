@@ -172,6 +172,7 @@ const message = {
             rootInfoErr: 'Já está no diretório raiz',
             resetSuccess: 'Redefinido com sucesso',
             creatingInfo: 'Criando, não é necessário realizar esta operação',
+            offlineTips: 'A versão offline não suporta esta operação',
         },
         login: {
             username: 'Usuário',
